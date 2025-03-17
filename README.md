@@ -1,5 +1,5 @@
 OVERVIEW :
-Purpose: The dashboard gives a comprehensive view of sales performance, customer reach, and product category distribution, aiding in data-driven decisions.
+ The dashboard gives a comprehensive view of sales performance, customer reach, and product category distribution, aiding in data-driven decisions.
 
 Key Figures:
 
