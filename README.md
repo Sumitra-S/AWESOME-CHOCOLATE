@@ -1,4 +1,5 @@
-OVERVIEW :
+# Awesome_Chocolate_Dashboard
+ OVERVIEW :
  The dashboard gives a comprehensive view of sales performance, customer reach, and product category distribution, aiding in data-driven decisions.
 - Data Visualization:
     - Bar charts showing sales amount by team (Yummies, Delish, Jucies, Special) and by product category (Bars, Bites, Other).
