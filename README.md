@@ -1,17 +1,10 @@
 OVERVIEW :
  The dashboard gives a comprehensive view of sales performance, customer reach, and product category distribution, aiding in data-driven decisions.
+- Data Visualization:
+    - Bar charts showing sales amount by team (Yummies, Delish, Jucies, Special) and by product category (Bars, Bites, Other).
+    - Line chart showing total boxes sold over time (from January 2021 to September 2021).
+    - Table displaying sales performance by salesperson, including total amount, total boxes sold, and amount per box.
+    - Total Customers (2021–2022): A line chart showing an upward trend in customer numbers, particularly during the latter part of 2021.
+    - Total Amount (2021–2022): Another line chart displaying a spike in revenue, peaking at $1,482,075 in November 2021.
 
-Key Figures:
 
-●Total Amount: $18.6M
-●Total Boxes Sold: 1.1M
-●Total Customers: 535.1K
-●Amount Per Box: $17.0
-
-Visual Highlights:
-1.Sales by Team: Bar chart comparing performance (Yummies, Delish, etc.).
-2.Sales Timeline: Line graph tracking "Total Boxes Sold" from Jan 2021 to Oct 2021.
-3.Regional Insights: Bar chart showing customer distribution (APAC, Americas, Europe).
-4.Product Breakdown: Bar chart displaying "Total Amount by Category" (Bars, Bites, etc.).
-5.Salesperson Performance: Table listing individuals' sales contributions.
-6.Global Sales: Map showing sales data (amount and boxes) by country.
